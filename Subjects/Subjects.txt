@@ -1,0 +1,19 @@
+——————————————————————————————
+SEAS-FR-DB
+——————————————————————————————
+Subjects Details
+——————————————————————————————
+
+Subject No : 	First Name	Last Name		Enrolment No.
+————————————————————————————————————————————————————————————
+Subject 1  : 	Mayank 	Jobanputra		(131021)
+
+Subject 2 : 	Axat 	Chaudhary			(131006)
+
+Subject 3 : 	Saumil 	Shah				(131044)
+
+Subject 4 : 	Dev 		Mehta			(131009)
+
+Subject 5 : 	Pal 		Nikola			(131032)
+
+————————————————————————————————————————————————————————————
