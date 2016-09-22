@@ -1,0 +1,55 @@
+——————————————————————————————
+SEAS-FR-DB
+——————————————————————————————
+Videos - Directory Hierarchy
+——————————————————————————————
+
+Videos
+|
+|—— Training Set
+|	|—— s1
+|	|	|—— s1__AC_1_1.jpg
+|	|	|—— s1_2.mov
+|	|	|—— s1_3.mov
+|	|	|—— s1_4.mov
+|	|—— s2
+|	|	|—— s2_1.mov
+|	|	|—— s2_2.mov
+|	|	|—— s2_3.mov
+|	|	|—— s2_4.mov
+|	|—— s3
+|	|	|—— s3_1.mov
+|	|	|—— s3_2.mov
+|	|	|—— s3_3.mov
+|	|	|—— s3_4.mov
+|
+|—— Testing Set
+|	|—— all_slide.mov
+|	|—— all_stand.mov
+
+——————————————————————————————
+
+For any image file starting with s….jpg, 
+
+Format : sX__FL_V_Z.jpg 
+
+where, 
+X = Subject No
+F = Subject’s First Name Initial
+L = Subject’s Last Name Initial
+V = Video No (Video from Testing Set Directory)
+Z = Frame No
+——————————————————————————————
+Example:
+For Subject - 3, Video-2:
+	Subject Name is : Saumil Shah
+
+Therefore,
+X = 3,V = 2, F = S, L = S, Z = 1 - 120
+	File Names would Range from 
+		s3__SS_2_1.jpg
+	to 
+		s3__SS_V_120.jpg
+
+Which are extracted from video at Location “SEAS-FR-DB/Videos/Training\ Set/s3/s3_2.mov”
+——————————————————————————————
