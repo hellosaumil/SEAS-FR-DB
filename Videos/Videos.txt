@@ -1,0 +1,47 @@
+——————————————————————————————
+SEAS-FR-DB
+——————————————————————————————
+Videos - Directory Hierarchy
+——————————————————————————————
+
+Videos
+|
+|—— Training Set
+|	|—— s1
+|	|	|—— s1_1.mov
+|	|	|—— s1_2.mov
+|	|	|—— s1_3.mov
+|	|	|—— s1_4.mov
+|	|—— s2
+|	|	|—— s2_1.mov
+|	|	|—— s2_2.mov
+|	|	|—— s2_3.mov
+|	|	|—— s2_4.mov
+|	|—— s3
+|	|	|—— s3_1.mov
+|	|	|—— s3_2.mov
+|	|	|—— s3_3.mov
+|	|	|—— s3_4.mov
+|
+|—— Testing Set
+|	|—— all_slide.mov
+|	|—— all_stand.mov
+
+——————————————————————————————
+
+For any video file starting with s….mov, 
+
+Format : sX_V.mov
+where, X = Subject No & V = Video No
+
+——————————————————————————————
+Example:
+For Subject - 3, Video-2:
+
+Therefore,
+X = 3,V = 2, F = S, L = S, Z = 1 - 120
+
+File Names would be :	“s3_2.mov”
+
+Which is at Location “SEAS-FR-DB/Videos/Training\ Set/s3/s3_2.mov”
+——————————————————————————————
