@@ -4,29 +4,45 @@ SEAS-FR-DB
 Videos - Directory Hierarchy
 ——————————————————————————————
 
-Videos
+Training Images
 |
-|—— Training Set
+|——
 |	|—— s1
-|	|	|—— s1__AC_1_1.jpg
-|	|	|—— s1_2.mov
-|	|	|—— s1_3.mov
-|	|	|—— s1_4.mov
+|	|	|—— s1_1
+|	|	|	|—— s1__AC_1_1.jpg
+|	|	|	|—— s1__AC_1_2.jpg
+|	|	|		.
+|	|	|		.
+|	|	|	|—— s1__AC_1_120.jpg
+|	|	.
+|	|	.
+|	|	|—— s1_4
+|	|	|	|	.
+|	|	|	|	.	
 |	|—— s2
-|	|	|—— s2_1.mov
-|	|	|—— s2_2.mov
-|	|	|—— s2_3.mov
-|	|	|—— s2_4.mov
+|	|	|—— s2_1
+|	|	|	|	|—— s2__MJ_2_1.jpg
+|	|	|	|	|—— s2__MJ_2_2.jpg
+|	|	|	|	.
+|	|	|	|	.	
+|	|	|	|—— s2__MJ_2_120.jpg
+|	|	.
+|	|	.
+|	|	|—— s2_4
+|	|	|	|	.
+|	|	|	|	.	
 |	|—— s3
-|	|	|—— s3_1.mov
-|	|	|—— s3_2.mov
-|	|	|—— s3_3.mov
-|	|	|—— s3_4.mov
-|
-|—— Testing Set
-|	|—— all_slide.mov
-|	|—— all_stand.mov
-
+|	|	|—— s3_1
+|	|	|	|	|—— s3__SS_3_1.jpg
+|	|	|	|	|—— s3__SS_3_2.jpg
+|	|	|	|	.
+|	|	|	|	.	
+|	|	|	|—— s3__SS_3_120.jpg
+|	|	.
+|	|	.
+|	|	|—— s3_4
+|	|	|	|	.
+|	|	|	|	.	
 ——————————————————————————————
 
 For any image file starting with s….jpg, 

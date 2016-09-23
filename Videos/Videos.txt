@@ -39,7 +39,7 @@ Example:
 For Subject - 3, Video-2:
 
 Therefore,
-X = 3,V = 2, F = S, L = S, Z = 1 - 120
+X = 3,V = 2
 
 File Names would be :	“s3_2.mov”
 
