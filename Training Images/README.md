@@ -1,0 +1,71 @@
+——————————————————————————————
+SEAS-FR-DB
+——————————————————————————————
+Videos - Directory Hierarchy
+——————————————————————————————
+
+Training Images
+|
+|——
+|	|—— s1
+|	|	|—— s1_1
+|	|	|	|—— s1__AC_1_1.jpg
+|	|	|	|—— s1__AC_1_2.jpg
+|	|	|		.
+|	|	|		.
+|	|	|	|—— s1__AC_1_120.jpg
+|	|	.
+|	|	.
+|	|	|—— s1_4
+|	|	|	|	.
+|	|	|	|	.	
+|	|—— s2
+|	|	|—— s2_1
+|	|	|	|	|—— s2__MJ_2_1.jpg
+|	|	|	|	|—— s2__MJ_2_2.jpg
+|	|	|	|	.
+|	|	|	|	.	
+|	|	|	|—— s2__MJ_2_120.jpg
+|	|	.
+|	|	.
+|	|	|—— s2_4
+|	|	|	|	.
+|	|	|	|	.	
+|	|—— s3
+|	|	|—— s3_1
+|	|	|	|	|—— s3__SS_3_1.jpg
+|	|	|	|	|—— s3__SS_3_2.jpg
+|	|	|	|	.
+|	|	|	|	.	
+|	|	|	|—— s3__SS_3_120.jpg
+|	|	.
+|	|	.
+|	|	|—— s3_4
+|	|	|	|	.
+|	|	|	|	.	
+——————————————————————————————
+
+For any image file starting with s….jpg, 
+
+Format : sX__FL_V_Z.jpg 
+
+where, 
+X = Subject No
+F = Subject’s First Name Initial
+L = Subject’s Last Name Initial
+V = Video No (Video from Testing Set Directory)
+Z = Frame No
+——————————————————————————————
+Example:
+For Subject - 3, Video-2:
+	Subject Name is : Saumil Shah
+
+Therefore,
+X = 3,V = 2, F = S, L = S, Z = 1 - 120
+	File Names would Range from 
+		s3__SS_2_1.jpg
+	to 
+		s3__SS_V_120.jpg
+
+Which are extracted from video at Location “SEAS-FR-DB/Videos/Training\ Set/s3/s3_2.mov”
+——————————————————————————————
